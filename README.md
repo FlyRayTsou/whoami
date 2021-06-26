@@ -16,7 +16,7 @@ I travel and work in the world and enjoy life between the cities. I have over fi
 
 # Programming Skill
 
-Language: JavaScript, PHP, C#, Java, and so on.
-Framework: Vue.js, Nuxt.js, Laravel, .NET MVC, .NET WEB API, Codeigniter, Angular I
+- Language: JavaScript, PHP, C#, Java, and so on.
+- Framework: Vue.js, Nuxt.js, Laravel, .NET MVC, .NET WEB API, Codeigniter, Angular I
 
 (Continue)
