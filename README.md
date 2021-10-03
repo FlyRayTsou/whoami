@@ -2,7 +2,7 @@
 
 I travel and work in the world and enjoy life between the cities. I have over five years of experience as a web developer. I like to study tech and share what I learned. My name is Ray Tsou. Nice to meet you.
 
-# Blog
+# Tech Blog
 
 | Date | Title | Mandarin | English | Japanese |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -19,5 +19,11 @@ I travel and work in the world and enjoy life between the cities. I have over fi
 
 - Language: JavaScript, PHP, C#, Java, and so on.
 - Framework: Vue.js, Nuxt.js, Laravel, .NET MVC, .NET WEB API, Codeigniter, Angular I
+
+# Life Blog
+| Date | Title | Mandarin | English | Japanese |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| 2021/07/11  | [Japan] How to make money by receipt in Japan  | [Link](https://flytoleisure.medium.com/%E5%9C%A8%E6%97%A5%E7%94%9F%E6%B4%BB-%E6%B2%92%E7%94%A8%E9%80%94%E7%9A%84%E6%94%B6%E6%93%9A%E5%A6%82%E4%BD%95%E8%AE%8A%E7%8F%BE%E9%87%91-c0b70b1fbdba) | | | 
+| 2019/12/25  | [Japan] How I start my career in Japan  | [Link](https://flytoleisure.medium.com/%E5%8F%B0%E7%81%A3%E5%B7%A5%E7%A8%8B%E5%B8%AB%E8%BD%89%E8%81%B7%E6%97%A5%E6%9C%AC%E6%9D%B1%E4%BA%AC%E5%B7%A5%E4%BD%9C-%E6%96%B0%E6%89%8B%E4%B8%8A%E8%B7%AF%E5%88%86%E4%BA%AB-2e02a6f422af) | | | 
 
 (Continue)
