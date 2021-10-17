@@ -6,6 +6,7 @@ I travel and work in the world and enjoy life between the cities. I have over fi
 
 | Date | Title | Mandarin | English | Japanese |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
+| 2021/10/17  | [GCP] Deploy Vue.js project to GAE via Github Action  | | [Link](https://flytoleisure.medium.com/gcp-auto-deploy-vue-js-project-to-google-app-engine-by-github-action-fab7e7269e4e) | | 
 | 2021/10/09  | [GCP] Deploy Vue.js project to GAE via Google Cloud CLI  | | [Link](https://flytoleisure.medium.com/gcp-deploy-vue-js-project-to-google-app-engine-via-google-cloud-cli-cd2d9796d881) | | 
 | 2021/10/03  | [GCP] Deploy Vue.js project to GAE via GCP UI  | | [Link](https://flytoleisure.medium.com/gcp-manual-deploy-vue-js-project-to-google-app-engine-via-gcp-user-interface-72c8ba2a7634) | | 
 | 2021/07/06  | [JavaScript] Number.parseFloat vs parseFloat | [Link](https://flytoleisure.medium.com/number-parsefloat-vs-parsefloat-8e97bf271ba0) | | | 
