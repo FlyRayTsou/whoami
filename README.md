@@ -6,6 +6,7 @@ I travel and work in the world and enjoy life between the cities. I have over fi
 
 | Date | Title | Mandarin | English | Japanese |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
+| 2022/09/04  | [JSON] How to visualize JSON data by JSON Crack   | | | [Link](https://qiita.com/T-M-H/items/00321ac35559769c9968) | 
 | 2021/12/20  | [Slack] How to remember what should be done in Slack   | | | [Link](https://qiita.com/T-M-H/items/4b8b3d53ab332dca96b1) | 
 | 2021/10/17  | [GCP] Deploy Vue.js project to GAE via Github Action  | | [Link](https://flytoleisure.medium.com/gcp-auto-deploy-vue-js-project-to-google-app-engine-by-github-action-fab7e7269e4e) | | 
 | 2021/10/09  | [GCP] Deploy Vue.js project to GAE via Google Cloud CLI  | | [Link](https://flytoleisure.medium.com/gcp-deploy-vue-js-project-to-google-app-engine-via-google-cloud-cli-cd2d9796d881) | | 
@@ -18,11 +19,6 @@ I travel and work in the world and enjoy life between the cities. I have over fi
 | 2021/04/04  | [Nuxt.js] @vue/composition-api vs @ nuxtjs/composition-api | [Link](https://flytoleisure.medium.com/nuxt-js-vue-composition-api-vs-nuxtjs-composition-api-%E5%B7%AE%E5%88%A5-3450886f836b) | | | 
 | 2020/12/18  | [E2E testing] Why I choose cypress  | | | [Link](https://qiita.com/T-M-H/items/42518e6d956cfa401c8a) | 
 
-# Programming Skill
-
-- Language: JavaScript, PHP, C#, Java, and so on.
-- Framework: Vue.js, Nuxt.js, Laravel, .NET MVC, .NET WEB API, Codeigniter, Angular I
-
 # Project
 | Period | Title | Type |
 | ------------- | ------------- | ------------- |
@@ -30,6 +26,10 @@ I travel and work in the world and enjoy life between the cities. I have over fi
 | 2019 Autumn  | [Weather Report System](https://github.com/FlyRayTsou/TravelWeather) | Interview Project |
 | 2019 Autumn  | [Drink Booking System](https://github.com/FlyRayTsou/DrinksOrder) | Interview Project |
 
+# Programming Skill
+
+- Language: TypeScript, Javascript, PHP, C#, Java, and so on.
+- Framework: Vue.js, Nuxt.js, Laravel, .NET MVC, .NET WEB API, Codeigniter, Angular I
 
 # Life Blog
 | Date | Title | Mandarin | English | Japanese |
@@ -37,6 +37,3 @@ I travel and work in the world and enjoy life between the cities. I have over fi
 | 2021/10/03  | [Japan] How much tax can I pay to Japan hometowns to exchange souvenirs | [Link](https://flytoleisure.medium.com/%E5%9C%A8%E6%97%A5%E7%94%9F%E6%B4%BB-%E6%BA%90%E6%B3%89%E5%BE%B4%E5%8F%8E%E7%A5%A8-%E4%BD%8F%E6%B0%91%E7%A8%85-%E6%95%85%E9%84%89%E7%B9%B3%E7%A8%85-%E3%81%B5%E3%81%99%E3%81%95%E3%81%A8%E7%B4%8D%E7%A8%85-%E8%A8%88%E7%AE%97%E6%96%B9%E6%B3%95-8b066894172) | | | 
 | 2021/07/11  | [Japan] How to make money by useless receipt in Japan  | [Link](https://flytoleisure.medium.com/%E5%9C%A8%E6%97%A5%E7%94%9F%E6%B4%BB-%E6%B2%92%E7%94%A8%E9%80%94%E7%9A%84%E6%94%B6%E6%93%9A%E5%A6%82%E4%BD%95%E8%AE%8A%E7%8F%BE%E9%87%91-c0b70b1fbdba) | | | 
 | 2019/12/25  | [Japan] How I start my career in Japan  | [Link](https://flytoleisure.medium.com/%E5%8F%B0%E7%81%A3%E5%B7%A5%E7%A8%8B%E5%B8%AB%E8%BD%89%E8%81%B7%E6%97%A5%E6%9C%AC%E6%9D%B1%E4%BA%AC%E5%B7%A5%E4%BD%9C-%E6%96%B0%E6%89%8B%E4%B8%8A%E8%B7%AF%E5%88%86%E4%BA%AB-2e02a6f422af) | | | 
-
-
-(Continue)
