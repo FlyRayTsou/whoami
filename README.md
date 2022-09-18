@@ -1,6 +1,6 @@
 # Brief Introduction
 
-I travel and work in the world and enjoy life between the cities. I have over five years of experience as a web developer. I like to study tech and share what I learned. My name is Ray Tsou. Nice to meet you.
+I travel and work in the world and enjoy life between the cities. I have over 6 years of experience as a web developer. I like to study tech and share what I learned. My name is Ray Tsou. Nice to meet you.
 
 # Tech Blog
 
