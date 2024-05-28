@@ -6,7 +6,7 @@ I travel and work in the world and enjoy life between the cities. I have over 8 
 
 | Date | Title | Mandarin | English | Japanese |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 2024/05/28  | Latest Azure OpenAI Info Links: New Features, Model Deprecation, API Versions, and More |  |  | [Link](https://qiita.com/T-M-H/items/d4e1b2d070128d9ff7d3) |
+| 2024/05/28  | [AzureOpenAI] Latest Azure OpenAI Info Links: New Features, Model Deprecation, API Versions, and More |  |  | [Link](https://qiita.com/T-M-H/items/d4e1b2d070128d9ff7d3) |
 | 2023/07/02  | [Scrum] Experience about certification PSD(Professional Scrum Developer) |[Link](https://medium.com/@flytoleisure/scrum-psd-professional-scrum-developer-證書取得經驗談-cea50c5aafea)| [Link](https://flytoleisure.medium.com/scrum-how-to-pass-psd-professional-scrum-developer-5cc665f8abf9) | [Link](https://qiita.com/T-M-H/items/f9ac9ed20aebc4a4d365) |
 | 2023/05/02  | [Azure] Experience about certification AZ-900 |[Link](https://flytoleisure.medium.com/az-900%E8%AD%89%E6%9B%B8%E5%8F%96%E5%BE%97%E7%B6%93%E9%A9%97%E8%AB%87-71b2aa713f39)| | [Link](https://qiita.com/T-M-H/items/2a29dd38f3de63679334) |
 | 2022/12/23  | [iPhone] How to use shortcut to improve our life | | | [Link](https://qiita.com/T-M-H/items/d744004d033c3c175e43) |
