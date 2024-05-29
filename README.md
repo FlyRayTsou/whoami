@@ -28,6 +28,7 @@ I travel and work in the world and enjoy life between the cities. I have over 8 
 # Project
 | Period | Title | Type |
 | ------------- | ------------- | ------------- |
+| 2024 Spring  | [Express.js API Template](https://github.com/FlyRayTsou/expressjs-api-template/tree/main) | Self Project |
 | 2023 Summer  | [Sample Nuxt3 Proxy](https://github.com/FlyRayTsou/SampleNuxt3Proxy) | Self Project |
 | 2022 Winter  | [Thumbnail Generator API](https://github.com/FlyRayTsou/thumbnail-generator) | Interview Project |
 | 2021 Summer  | [Japan Visa Calculate System](https://github.com/FlyRayTsou/VisaApp) | Self Project |
