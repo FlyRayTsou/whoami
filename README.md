@@ -43,7 +43,7 @@ I travel and work in the world and enjoy life between the cities. I have over 8 
 # Life Blog
 | Date | Title | Mandarin | English | Japanese |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 2019/12/25  | [Japan] It's also a good idea to live in share house when you just come to Japan  | [Link](https://www.worklifeinjapan.net/2023/08/share-house-in-japan.html) | | | 
+| 2023/08/04  | [Japan] It's also a good idea to live in share house when you just come to Japan  | [Link](https://www.worklifeinjapan.net/2023/08/share-house-in-japan.html) | | | 
 | 2021/10/03  | [Japan] How much tax can I pay to Japan hometowns to exchange souvenirs | [Link](https://flytoleisure.medium.com/%E5%9C%A8%E6%97%A5%E7%94%9F%E6%B4%BB-%E6%BA%90%E6%B3%89%E5%BE%B4%E5%8F%8E%E7%A5%A8-%E4%BD%8F%E6%B0%91%E7%A8%85-%E6%95%85%E9%84%89%E7%B9%B3%E7%A8%85-%E3%81%B5%E3%81%99%E3%81%95%E3%81%A8%E7%B4%8D%E7%A8%85-%E8%A8%88%E7%AE%97%E6%96%B9%E6%B3%95-8b066894172) | | | 
 | 2021/07/11  | [Japan] How to make money by useless receipt in Japan  | [Link](https://flytoleisure.medium.com/%E5%9C%A8%E6%97%A5%E7%94%9F%E6%B4%BB-%E6%B2%92%E7%94%A8%E9%80%94%E7%9A%84%E6%94%B6%E6%93%9A%E5%A6%82%E4%BD%95%E8%AE%8A%E7%8F%BE%E9%87%91-c0b70b1fbdba) | | | 
 | 2019/12/25  | [Japan] How I start my career in Japan  | [Link](https://flytoleisure.medium.com/%E5%8F%B0%E7%81%A3%E5%B7%A5%E7%A8%8B%E5%B8%AB%E8%BD%89%E8%81%B7%E6%97%A5%E6%9C%AC%E6%9D%B1%E4%BA%AC%E5%B7%A5%E4%BD%9C-%E6%96%B0%E6%89%8B%E4%B8%8A%E8%B7%AF%E5%88%86%E4%BA%AB-2e02a6f422af) | | | 
