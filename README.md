@@ -6,6 +6,8 @@ I travel and work in the world and enjoy life between the cities. I have over 8 
 
 | Date | Title | Mandarin | English | Japanese |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
+| 2024/06/07  | [Express.js] Adding Debug Configuration and Starting the Debugger with VSCode | | [Link](https://flytoleisure.medium.com/express-js-adding-debug-configuration-and-starting-the-debugger-with-vscode-33f83ea63b69) | |
+| 2024/06/02  | [Express.js] Setting Up Coding Conventions and Transpiling TypeScript into JavaScript | | [Link](https://medium.com/@flytoleisure/express-js-setting-up-coding-conventions-and-transpiling-typescript-into-javascript-322947a9295e) | |
 | 2024/05/29  | [Express.js] Setting Up an Express.js API with TypeScript from Scratch | | [Link](https://flytoleisure.medium.com/express-js-i-setting-up-an-express-js-api-with-typescript-from-scratch-a8ac7be70a38) | |
 | 2024/05/28  | [AzureOpenAI] Latest Azure OpenAI Info Links: New Features, Model Deprecation, API Versions, and More |  |  | [Link](https://qiita.com/T-M-H/items/d4e1b2d070128d9ff7d3) |
 | 2023/07/02  | [Scrum] Experience about certification PSD(Professional Scrum Developer) |[Link](https://medium.com/@flytoleisure/scrum-psd-professional-scrum-developer-證書取得經驗談-cea50c5aafea)| [Link](https://flytoleisure.medium.com/scrum-how-to-pass-psd-professional-scrum-developer-5cc665f8abf9) | [Link](https://qiita.com/T-M-H/items/f9ac9ed20aebc4a4d365) |
