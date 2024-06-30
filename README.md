@@ -39,10 +39,11 @@ I travel and work in the world and enjoy life between the cities. I have over 8 
 | 2019 Autumn  | [Drink Booking System](https://github.com/FlyRayTsou/DrinksOrder) | Interview Project |
 
 # Volunteer Experience
-| Project | Reference |
-| ----- | ----- |
-| Hualien Li Ming institution | https://www.newdawn.org.tw/ |
-| International Volunteer Group Jullay 2 | https://www.facebook.com/NYCUJullay/ |
+| Location | Project | Reference |
+| ----- | ----- | ----- |
+| Japan | Corporate Citizenship | https://www.avanade.com/ja-jp/about-avanade/story/corporate-citizenship |
+| Taiwan | Hualien Li Ming institution | https://www.newdawn.org.tw/ |
+| India | International Volunteer Group Jullay | https://www.facebook.com/NYCUJullay/ |
 
 # Programming Skill
 
