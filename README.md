@@ -45,10 +45,17 @@ I travel and work in the world and enjoy life between the cities. I have over 8 
 | Taiwan | Hualien Li Ming institution | https://www.newdawn.org.tw/ |
 | India | International Volunteer Group Jullay | https://www.facebook.com/NYCUJullay/ |
 
-# Programming Skill
+# Skills
 
-- Language: TypeScript, Javascript, PHP, C#, Java, and so on.
-- Framework: Vue.js, Nuxt.js, Laravel, .NET MVC, .NET WEB API, Codeigniter, Angular I
+- Language: TypeScript, Javascript, Python, PHP, C#, Java, and so on.
+- Framework: Vue.js, Nuxt.js, Next.js, Express.js, Nest.js, Laravel, Django, FastAPI, .NET MVC, .NET WEB API, Codeigniter, Angular I
+- Database: RDB(MySQL, PostgreSQL), NoSQL(Azure CosmosDB)
+- Cloud: Azure, GCP
+- IaC: Terraform
+- CI/CD: Github Action, Azure DevOps Pipeline
+- Container Related: Docker, Kubernetes, Azure Container Registry
+- Certifications: Professional Scrum Developer(Scrum.org), AZ-900(Microsoft), LFC131(Linux Foundation)
+
 
 # Life Blog
 | Date | Title | Mandarin | English | Japanese |
