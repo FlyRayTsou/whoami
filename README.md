@@ -6,6 +6,7 @@ I travel and work in the world and enjoy life between the cities. I have over 8 
 
 | Date | Title | Mandarin | English | Japanese |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
+| 2025/03/08  | Guideline for Building a Practical and Effective RAG (Retrieval-Augmented Generation) Application | | [Link](https://medium.com/@flytoleisure/guideline-for-building-a-practical-and-effective-rag-retrieval-augmented-generation-application-f6cf50676e37) | |
 | 2024/06/10  | [Express.js] Setting Up Hot Reloading with Nodemon | | [Link](https://flytoleisure.medium.com/express-js-setting-up-hot-reloading-with-nodemon-40c2c2f94bc2) | |
 | 2024/06/07  | [Express.js] Adding Debug Configuration and Starting the Debugger with VSCode | | [Link](https://flytoleisure.medium.com/express-js-adding-debug-configuration-and-starting-the-debugger-with-vscode-33f83ea63b69) | |
 | 2024/06/02  | [Express.js] Setting Up Coding Conventions and Transpiling TypeScript into JavaScript | | [Link](https://medium.com/@flytoleisure/express-js-setting-up-coding-conventions-and-transpiling-typescript-into-javascript-322947a9295e) | |
