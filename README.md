@@ -29,6 +29,11 @@ I travel and work in the world and enjoy life between the cities. I have over 8 
 | 2021/04/04  | [Nuxt.js] @vue/composition-api vs @ nuxtjs/composition-api | [Link](https://flytoleisure.medium.com/nuxt-js-vue-composition-api-vs-nuxtjs-composition-api-%E5%B7%AE%E5%88%A5-3450886f836b) | | | 
 | 2020/12/18  | [E2E testing] Why I choose cypress  | | | [Link](https://qiita.com/T-M-H/items/42518e6d956cfa401c8a) | 
 
+# Presentations
+| Period | Title | Description |
+| ------------- | ------------- | ------------- |
+| Jun 2025  | [An Introduction to RAG: Retrieval-Augmented Generation](https://speakerdeck.com/raytsou/an-introduction-to-rag-retrieval-augmented-generation) | - |
+
 # Project
 | Period | Title | Type |
 | ------------- | ------------- | ------------- |
