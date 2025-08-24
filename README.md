@@ -6,6 +6,7 @@ I travel and work in the world and enjoy life between the cities. I have over 8 
 
 | Date | Title | Mandarin | English | Japanese |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
+| 2025/08/24  | Ternary Operator (?:) and the Nullish Coalescing Operator (??) in JavaScript | | [Link](https://medium.com/@flytoleisure/that-time-i-confused-a-a-b-with-a-b-in-javascript-4f8a5bc26ae1) |[Link](https://qiita.com/T-M-H/items/451f49711ed686ba3077)|
 | 2025/03/08  | Guideline for Building a Practical and Effective RAG (Retrieval-Augmented Generation) Application | | [Link](https://medium.com/@flytoleisure/guideline-for-building-a-practical-and-effective-rag-retrieval-augmented-generation-application-f6cf50676e37) |[Link](https://qiita.com/T-M-H/items/d0b60b70259faeebafab)|
 | 2024/06/10  | [Express.js] Setting Up Hot Reloading with Nodemon | | [Link](https://flytoleisure.medium.com/express-js-setting-up-hot-reloading-with-nodemon-40c2c2f94bc2) | |
 | 2024/06/07  | [Express.js] Adding Debug Configuration and Starting the Debugger with VSCode | | [Link](https://flytoleisure.medium.com/express-js-adding-debug-configuration-and-starting-the-debugger-with-vscode-33f83ea63b69) | |
